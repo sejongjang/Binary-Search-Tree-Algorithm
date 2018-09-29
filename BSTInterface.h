@@ -1,4 +1,4 @@
-//YOU MAY NOT MODIFY THIS DOCUMENT
+
 #ifndef BST_INTERFACE_H
 #define BST_INTERFACE_H
 #include <string>
